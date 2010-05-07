@@ -1,0 +1,4 @@
+
+rambo:
+	g++ rambo.c -o rambo
+
